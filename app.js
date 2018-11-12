@@ -1,0 +1,15 @@
+"use strict";
+exports.__esModule = true;
+var arma_1 = require("./arma");
+var metralhadora_1 = require("./metralhadora");
+var UZI = new metralhadora_1.metralhadora(25, 25, 1);
+UZI.atirar();
+UZI.atirar();
+UZI.atirar();
+UZI.atirar();
+UZI.atirar();
+UZI.atirar();
+UZI.atirar();
+var pistola = new arma_1.arma(10, 10);
+pistola.atirar(2);
+pistola.atirar(3);
