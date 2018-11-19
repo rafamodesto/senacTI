@@ -1,0 +1,16 @@
+h1{
+color: rosybrown
+}
+h2{ 
+color: pink
+}
+a{
+color: greenyellow
+}
+img{
+    background: greenyellow;
+    filter: invert(100%);
+}
+html{
+    filter: invert(100%);
+}
