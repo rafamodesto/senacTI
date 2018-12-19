@@ -1,0 +1,14 @@
+<div class="direito">
+  <app-direito (definirTexto)="filhoPai($event)"></app-direito>
+</div>
+<div class="esquerdo">
+  <app-esquerdo [numero]=variavelDoMainn></app-esquerdo>
+</div>
+
+<ul>
+  <li style="list-style-type: none;" *ngFor="let numero of numeros">
+    {{numero.numero}} {{numero.tipo}}
+  </li>
+</ul>
+
+
