@@ -1,0 +1,65 @@
+{
+  "produtos": [
+   {
+      "id": 1,
+      "nome": "Camellia japonica",
+      "descricao": "Um arbusto ou árvore pequena, nativa das florestas do sul do Japão",
+      "valor": " 68,90",
+      "imagem": "assets/img/produtos/1.jpg"
+    }, {
+      "id": 2,
+      "nome": "Diphylleia Grayi",
+      "descricao": "Flor esqueleto – tem pétalas brancas, mas bastam algumas gotas de chuva ou o aumento da umidade para que ela fique transparente",
+      "valor": "34,80",
+      "imagem": "assets/img/produtos/2.jpg"
+    }, {
+      "id": 3,
+      "nome": "Oxalis Versicolor",
+      "descricao": "A azedinha-listrada é uma planta herbácea, bulbosa e florífera, que chama a atenção por suas curiosas listras no verso das flores. As folhas são trifoliadas, como nos trevos, porém com folíolos lineares e delicados.",
+      "valor": "3,87",
+      "imagem": "assets/img/produtos/3.jpg"
+    }, {
+      "id": 4,
+      "nome": "Orquídea Azul",
+      "descricao": "25,30",
+      "valor": "Batizada de Blue Mystic devido ao mistério em torno de como foi atingida essa coloração única",
+      "imagem": "assets/img/produtos/4.jpg"
+    }, {
+      "id": 5,
+      "nome": "Pensée",
+      "descricao": "O Amor Perfeito é uma planta ornamental, originária da Europa e Ásia Central, mas está muito bem adaptada em nosso país. É uma planta rasteira que tem preferência por climas mais frios",
+      "valor": "18,69",
+      "imagem": "assets/img/produtos/5.jpg"
+    }, {
+      "id": 6,
+      "nome": "Amarílis",
+      "descricao": "A amarílis é uma flor fácil de cuidar e suas flores coloridas garantem muita beleza.",
+      "valor": "10,36",
+      "imagem": "assets/img/produtos/6.jpg"
+    }, {
+      "id": 7,
+      "nome": "Flor da Abobora",
+      "descricao": "A flor de abóbora é uma das flores comestíveis mais conhecidas e é muito usada na culinária italiana",
+      "valor": "9,00",
+      "imagem": "assets/img/produtos/7.jpg"
+    }, {
+      "id": 8,
+      "nome": "Rosa Fuxia",
+      "descricao": "A flor mais conhecida",
+      "valor": "12,00",
+      "imagem": "assets/img/produtos/8.jpg"
+    }, {
+      "id": 9,
+      "nome": "Strongylodon macrobotrys",
+      "descricao": "Originária das florestas de Filipinas, a videira jade pertence à família do feijão e da ervilha e apresenta flores em formato de garras, que podem atingir até 3m de comprimento.",
+      "valor": "208,99",
+      "imagem": "assets/img/produtos/9.jpg"
+    }, {
+      "id": 10,
+      "nome": "Rosas Arco-íris",
+      "descricao": "O processo de criação foi patenteado pelo holandês Peter Van de Werken, que pretende levar o segredo até o túmulo. Porém, especialistas no assunto explicam que muito provavelmente ele utilizou uma espécie de corante orgânico que as plantas absorveram após terem passado por um processo de desidratação.",
+      "valor": "289,80",
+      "imagem": "assets/img/produtos/10.jpg"
+    }
+  ]
+}
